@@ -1,0 +1,1 @@
+To see my data analysis and code for ENGS 127 Lab 1, download ClaireGreen_ENGS127_Lab1.ipynb and open it in Google Colab. Jupyter notebook would probably work too, although I originally wrote it in colab.
